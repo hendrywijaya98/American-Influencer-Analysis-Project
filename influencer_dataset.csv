@@ -1,0 +1,221 @@
+Influencer,Followers,Post,Avg Likes Per Post,Avg Comment Per Post,Price Per Post,Price Per Video Post,Price Per Story,Follow Probability,Account Created,Gender,Category ID,Agency Location ID,Category Group,Category Name,Agency Location,Agency Fee
+@jhonnydummy,4.5 million,670,282410,1033,5500,29000,2500,0.0007,2019-04-01,Female,2,32,1,Art & Design,New York,0.0652
+@melvinbresnahan,790 thousand,161,52512,8787,1300,6000,4600,0.0021,2019-05-01,Male,10,32,2,Food & Drink,New York,0.0652
+@pokemonfansclub,1.3 million,1250,41249,553,9000,12000,9000,0.0024,2018-06-01,Male,2,21,1,Art & Design,Massachusetts,0.0568
+@elaneknights,3.2 million,300,42849,866,1000,3000,13000,0.0009,2012-07-01,Female,2,21,1,Art & Design,Massachusetts,0.0568
+@myungdulmage,3.7 million,165,239267,374,12400,16200,3600,0.0028,2014-07-01,Male,2,21,1,Art & Design,Massachusetts,0.0568
+@carmeliasalgado,4.1 million,249,284880,10614,3400,7000,4400,0.0019,2018-10-01,Female,5,21,1,Books & Reference,Massachusetts,0.0568
+@deandresample,4.5 million,670,282410,1033,5500,29000,2500,0.0014,2011-05-01,Female,6,21,2,Business,Massachusetts,0.0568
+@bridgetteloyola,300 thousand,1124,124111,5313,6000,12000,7500,0.0015,2012-07-01,Female,8,21,2,Events,Massachusetts,0.0568
+@kailapiehl,500 thousand,227,5676,164,1500,7500,10800,0.0018,2017-11-01,Male,15,21,3,Music & Audio,Massachusetts,0.0568
+@candelariahammons,1.1 million,165,239267,374,12400,16200,3600,0.0012,2014-01-01,Male,15,21,3,Music & Audio,Massachusetts,0.0568
+@claudinebart,800 thousand,300,42849,866,1000,3000,13000,0.0027,2018-06-01,Female,1,21,1,Adventure,Massachusetts,0.0568
+@armandcote,5.9 million,228,76432,11563,3800,7900,6000,0.002,2013-02-01,Male,2,20,1,Art & Design,Maryland,0.0563
+@fidelmoreau,390 thousand,231,647,219,1000,5600,13700,0.0022,2011-05-01,Male,2,20,1,Art & Design,Maryland,0.0563
+@hackers_010101,980 thousand,554,4249,10,5400,10000,7500,0.0017,2012-11-01,Male,5,20,1,Books & Reference,Maryland,0.0563
+@kendalltocco,4.5 million,670,282410,1033,5500,29000,2500,0.0005,2014-01-01,Female,9,20,2,Finance,Maryland,0.0563
+@junkojeffery,800 thousand,800,4251,5656,5700,12100,11000,0.0023,2011-05-01,Male,12,20,2,Health & Fitness,Maryland,0.0563
+@tamerapeery,2.5 million,165,239267,374,12400,16200,3600,0.0015,2019-04-01,Male,11,20,2,Games,Maryland,0.0563
+@arielkarn,1.9 million,249,284880,10614,3400,7000,4400,0.0009,2013-12-01,Female,11,20,2,Games,Maryland,0.0563
+@latrishawhiteley,7 million,249,284880,10614,3400,7000,4400,0.0022,2014-07-01,Female,1,20,1,Adventure,Maryland,0.0563
+@kimbergoggins,300 thousand,878,24921,439,1200,5000,9000,0.0008,2011-05-01,Male,18,20,3,Productivity,Maryland,0.0563
+@alexstork,5.2 million,312,57755,1458,4210,5000,5000,0.0023,2012-11-01,Male,20,20,4,Social,Maryland,0.0563
+@gerdanegri,1.7 million,111,10435,1000,13400,22100,19400,0.0028,2012-11-01,Male,2,30,1,Art & Design,New Jersey,0.0475
+@kaleyjourney,8.2 million,1002,128998,1641,3500,12000,3500,0.0021,2013-12-01,Male,1,30,1,Adventure,New Jersey,0.0475
+@lubatay,2.9 million,902,290192,10991,3000,6000,2500,0.0023,2018-06-01,Male,19,30,3,Shopping,New Jersey,0.0475
+@elizebethrita,390 thousand,231,647,219,1000,5600,13700,0.0024,2011-05-01,Male,19,30,3,Shopping,New Jersey,0.0475
+@lorinastudstill,2.9 million,902,290192,10991,3000,6000,2500,0.0022,2011-05-01,Male,20,30,4,Social,New Jersey,0.0475
+@bettieptak,2.5 million,1737,321319,10443,5700,29300,2900,0.0013,2013-02-01,Female,2,36,1,Art & Design,Oklahoma,0.0266
+@shamikaholderman,800 thousand,300,42849,866,1000,3000,13000,0.0017,2012-11-01,Male,3,36,1,Auto & Vehicles,Oklahoma,0.0266
+@yupinion,390 thousand,878,24921,439,1200,5000,9000,0.0018,2018-07-01,Male,6,36,2,Business,Oklahoma,0.0266
+@pollyvinci,1.1 million,165,239267,374,12400,16200,3600,0.0015,2015-11-01,Male,9,36,2,Finance,Oklahoma,0.0266
+@lesleymims,390 thousand,231,647,219,1000,5600,13700,0.0029,2014-01-01,Male,1,36,1,Adventure,Oklahoma,0.0266
+@georginehynson,500 thousand,902,290192,10991,3000,6000,2500,0.0023,2018-10-01,Female,20,36,4,Social,Oklahoma,0.0266
+@brittnypryce,8.2 million,1002,128998,1641,3500,12000,3500,0.0009,2012-12-01,Female,2,25,1,Art & Design,Missouri,0.0072
+@sabrinaknauss,700 thousand,371,4836,461,800,8800,3900,0.0019,2013-02-01,Female,14,25,3,Medical,Missouri,0.0072
+@margretoxner,1.1 million,231,647,219,1000,5600,13700,0.0025,2011-05-01,Male,2,24,1,Art & Design,Mississippi,0.0529
+@lillianleggett,1.7 million,111,10435,1000,13400,22100,19400,0.0015,2014-01-01,Female,3,24,1,Auto & Vehicles,Mississippi,0.0529
+@tonyjunk,500 thousand,227,5676,164,1500,7500,10800,0.0013,2014-01-01,Male,3,24,1,Auto & Vehicles,Mississippi,0.0529
+@angietraynor,6.2 million,246,36129,6545,4900,8400,7700,0.002,2019-04-01,Male,4,24,1,Beauty,Mississippi,0.0529
+@timecropperswow,7 million,444,35800,1427,13000,19000,15000,0.0027,2018-07-01,Male,9,24,2,Finance,Mississippi,0.0529
+@lennareel,4.1 million,412,387450,361,12000,15000,2000,0.0019,2012-07-01,Female,12,24,2,Health & Fitness,Mississippi,0.0529
+@rashadsurita,980 thousand,554,4249,10,5400,10000,7500,0.0014,2018-07-01,Female,15,24,3,Music & Audio,Mississippi,0.0529
+@charlettekary,500 thousand,412,387450,361,12000,15000,2000,0.0007,2014-01-01,Female,1,24,1,Adventure,Mississippi,0.0529
+@ninfatoliver,8.2 million,1002,128998,1641,3500,12000,3500,0.0021,2011-05-01,Female,18,24,3,Productivity,Mississippi,0.0529
+@rennaewin,500 thousand,165,239267,374,12400,16200,3600,0.0019,2011-05-01,Male,2,26,1,Art & Design,Montana,0.0356
+@leapauley,300 thousand,878,24921,439,1200,5000,9000,0.0008,2017-09-01,Male,2,26,1,Art & Design,Montana,0.0356
+@alenavoll,1.1 million,165,239267,374,12400,16200,3600,0.0019,2014-07-01,Male,7,26,2,Comics,Montana,0.0356
+@claritaabrams,790 thousand,902,290192,10991,3000,6000,2500,0.0015,2018-07-01,Female,10,26,2,Food & Drink,Montana,0.0356
+@tandynoguera,7 million,231,647,219,1000,5600,13700,0.0015,2011-05-01,Female,15,26,3,Music & Audio,Montana,0.0356
+@herminiamahler,500 thousand,227,5676,164,1500,7500,10800,0.0025,2018-06-01,Female,17,26,3,Parenting,Montana,0.0356
+@carlitahack,390 thousand,231,647,219,1000,5600,13700,0.0021,2017-09-01,Male,2,9,1,Art & Design,Florida,0.0528
+@johnniekleve,500 thousand,249,284880,10614,3400,7000,4400,0.0015,2019-04-01,Male,3,9,1,Auto & Vehicles,Florida,0.0528
+@tawnyprevost,9.5 million,820,4370,3523,7300,15500,12100,0.0016,2017-09-01,Female,4,9,1,Beauty,Florida,0.0528
+@shalandasanta,3.3 million,521,50828,751,6900,14900,9900,0.0015,2013-02-01,Male,5,9,1,Books & Reference,Florida,0.0528
+@sushiloversmania,2.5 million,802,82748,44,7000,12000,10000,0.0014,2014-01-01,Male,10,9,2,Food & Drink,Florida,0.0528
+@camilarawles,300 thousand,878,24921,439,1200,5000,9000,0.0026,2013-12-01,Male,15,9,3,Music & Audio,Florida,0.0528
+@eldamaize,500 thousand,372,4291,199,1000,5000,3000,0.0015,2013-12-01,Female,16,9,3,News & Magazines,Florida,0.0528
+@kemberlyblanch,2.5 million,878,24921,439,1200,5000,9000,0.0015,2017-09-01,Female,1,9,1,Adventure,Florida,0.0528
+@perlasaad,4.1 million,412,387450,361,12000,15000,2000,0.0023,2018-07-01,Male,19,9,3,Shopping,Florida,0.0528
+@kissthehips,8.2 million,1002,128998,1641,3500,12000,3500,0.0013,2013-02-01,Female,3,15,1,Auto & Vehicles,Iowa,0.0636
+@vannaemigh,1.7 million,111,10435,1000,13400,22100,19400,0.0021,2013-02-01,Male,12,15,2,Health & Fitness,Iowa,0.0636
+@japanculturelovers,5.2 million,312,57755,1458,4210,5000,5000,0.0022,2012-07-01,Female,3,40,1,Auto & Vehicles,South Carolina,0.0568
+@veolawalley,1.1 million,902,290192,10991,3000,6000,2500,0.002,2013-12-01,Female,3,40,1,Auto & Vehicles,South Carolina,0.0568
+@winifredmijangos,980 thousand,227,5676,164,1500,7500,10800,0.0012,2011-05-01,Female,3,40,1,Auto & Vehicles,South Carolina,0.0568
+@milissakarpinski,8.2 million,1002,128998,1641,3500,12000,3500,0.0019,2019-04-01,Female,7,40,2,Comics,South Carolina,0.0568
+@cristifiles,500 thousand,227,5676,164,1500,7500,10800,0.0023,2011-05-01,Female,8,40,2,Events,South Carolina,0.0568
+@millyplayer,4.5 million,554,4249,10,5400,10000,7500,0.0019,2013-12-01,Male,9,40,2,Finance,South Carolina,0.0568
+@amiechabot,2.5 million,231,647,219,1000,5600,13700,0.0023,2016-10-01,Female,16,40,3,News & Magazines,South Carolina,0.0568
+@bernardoshaughnessy,500 thousand,227,5676,164,1500,7500,10800,0.002,2017-09-01,Male,16,40,3,News & Magazines,South Carolina,0.0568
+@aracelisrobinette,150 thousand,421,3273,73,1600,9400,11500,0.0021,2019-05-01,Female,11,40,2,Games,South Carolina,0.0568
+@micheleericson,790 thousand,902,290192,10991,3000,6000,2500,0.0015,2012-07-01,Female,18,40,3,Productivity,South Carolina,0.0568
+@nikitaepps,2.9 million,902,290192,10991,3000,6000,2500,0.0007,2018-10-01,Male,20,40,4,Social,South Carolina,0.0568
+@lessavidge,100 thousand,291,10050,408,9400,16900,12600,0.0016,2011-05-01,Female,3,31,1,Auto & Vehicles,New Mexico,0.0541
+@williswillams,1.9 million,165,239267,374,12400,16200,3600,0.0009,2018-07-01,Female,3,31,1,Auto & Vehicles,New Mexico,0.0541
+@believemenow,500 thousand,372,4291,199,1000,5000,3000,0.0016,2011-05-01,Female,8,31,2,Events,New Mexico,0.0541
+@francescache,8.2 million,1002,128998,1641,3500,12000,3500,0.0019,2017-09-01,Male,10,31,2,Food & Drink,New Mexico,0.0541
+@geraldineriggenbach,790 thousand,161,52512,8787,1300,6000,4600,0.0008,2018-07-01,Female,15,31,3,Music & Audio,New Mexico,0.0541
+@laveniagehling,3.2 million,227,5676,164,1500,7500,10800,0.0023,2013-02-01,Female,1,31,1,Adventure,New Mexico,0.0541
+@elinatrueman,4.5 million,670,282410,1033,5500,29000,2500,0.0019,2015-11-01,Male,1,31,1,Adventure,New Mexico,0.0541
+@margarettabrev,2.5 million,1002,128998,1641,3500,12000,3500,0.0029,2018-07-01,Female,1,31,1,Adventure,New Mexico,0.0541
+@annabelleroyse,890 thousand,300,42849,866,1000,3000,13000,0.0017,2014-07-01,Male,19,31,3,Shopping,New Mexico,0.0541
+@tobyleicht,3.7 million,1124,124111,5313,6000,12000,7500,0.0029,2011-05-01,Female,14,31,3,Medical,New Mexico,0.0541
+@joaneewan,9.5 million,820,4370,3523,7300,15500,12100,0.0008,2011-05-01,Male,3,35,1,Auto & Vehicles,Ohio,0.0469
+@cliftonokamura,1.1 million,165,239267,374,12400,16200,3600,0.0021,2019-04-01,Male,3,35,1,Auto & Vehicles,Ohio,0.0469
+@clarisamelancon,1.1 million,165,239267,374,12400,16200,3600,0.002,2012-07-01,Male,15,35,3,Music & Audio,Ohio,0.0469
+@willenesatterwhite,4.1 million,412,387450,361,12000,15000,2000,0.0016,2012-11-01,Male,1,35,1,Adventure,Ohio,0.0469
+@magdalenainfante,8.2 million,1002,128998,1641,3500,12000,3500,0.001,2012-07-01,Female,20,35,4,Social,Ohio,0.0469
+@deeannstabler,3.2 million,416,69015,343,3600,12800,4700,0.0017,2015-08-01,Male,3,3,1,Auto & Vehicles,Arizona,0.0233
+@mandyleverett,790 thousand,902,290192,10991,3000,6000,2500,0.0021,2011-05-01,Female,4,3,1,Beauty,Arizona,0.0233
+@nevadahodgkinson,1.9 million,300,42849,866,1000,3000,13000,0.0018,2014-01-01,Female,6,3,2,Business,Arizona,0.0233
+@cassandrakeleher,500 thousand,227,5676,164,1500,7500,10800,0.0016,2011-05-01,Male,10,3,2,Food & Drink,Arizona,0.0233
+@jonijimerson,500 thousand,227,5676,164,1500,7500,10800,0.0013,2017-09-01,Male,18,3,3,Productivity,Arizona,0.0233
+@lorenatoothaker,390 thousand,300,42849,866,1000,3000,13000,0.0007,2018-10-01,Male,19,3,3,Shopping,Arizona,0.0233
+@sheldonesteban,4.1 million,412,387450,361,12000,15000,2000,0.0015,2012-11-01,Male,3,4,1,Auto & Vehicles,Arkansas,0.0062
+@charlesettatatem,2.2 million,422,842892,4366,6100,29600,2900,0.0011,2015-08-01,Female,15,4,3,Music & Audio,Arkansas,0.0062
+@robbywingard,390 thousand,878,24921,439,1200,5000,9000,0.0014,2013-02-01,Female,3,39,1,Auto & Vehicles,Rhode Island,0.0303
+@edisonrodreguez,300 thousand,147,2715,214,1200,10400,4200,0.0028,2018-06-01,Female,5,39,1,Books & Reference,Rhode Island,0.0303
+@raygritton,3.2 million,670,282410,1033,5500,29000,2500,0.0023,2012-07-01,Female,6,39,2,Business,Rhode Island,0.0303
+@cornharvestertools,500 thousand,1523,11023,444,800,7000,2000,0.0014,2017-09-01,Male,12,39,2,Health & Fitness,Rhode Island,0.0303
+@blakefazzino,500 thousand,227,5676,164,1500,7500,10800,0.0012,2014-01-01,Female,13,39,3,House & Home,Rhode Island,0.0303
+@brittnichevalier,890 thousand,300,42849,866,1000,3000,13000,0.0007,2015-11-01,Male,16,39,3,News & Magazines,Rhode Island,0.0303
+@taynakennard,7 million,444,35800,1427,13000,19000,15000,0.002,2012-11-01,Male,21,39,4,Travel & Local,Rhode Island,0.0303
+@parisdahl,4.5 million,227,5676,164,1500,7500,10800,0.0021,2014-07-01,Male,3,29,1,Auto & Vehicles,New Hampshire,0.0352
+@arronhatt,500 thousand,227,5676,164,1500,7500,10800,0.0016,2018-10-01,Female,3,29,1,Auto & Vehicles,New Hampshire,0.0352
+@jeffierochford,890 thousand,300,42849,866,1000,3000,13000,0.002,2012-07-01,Female,3,29,1,Auto & Vehicles,New Hampshire,0.0352
+@augustinawunder,1.7 million,1250,41249,553,9000,12000,9000,0.0015,2014-01-01,Female,12,29,2,Health & Fitness,New Hampshire,0.0352
+@robertaheyden,2.5 million,1002,128998,1641,3500,12000,3500,0.0014,2018-07-01,Female,13,29,3,House & Home,New Hampshire,0.0352
+@cherekibby,390 thousand,231,647,219,1000,5600,13700,0.0012,2012-07-01,Female,11,29,2,Games,New Hampshire,0.0352
+@michaeldurrance,500 thousand,227,5676,164,1500,7500,10800,0.0022,2015-11-01,Female,3,13,1,Auto & Vehicles,Illinois,0.0564
+@kathrineblohm,500 thousand,231,647,219,1000,5600,13700,0.0019,2011-05-01,Male,3,13,1,Auto & Vehicles,Illinois,0.0564
+@johnwick5trailers,3.7 million,1124,124111,5313,6000,12000,7500,0.0007,2013-12-01,Female,4,13,1,Beauty,Illinois,0.0564
+@shereearellano,390 thousand,231,647,219,1000,5600,13700,0.0025,2018-07-01,Female,9,13,2,Finance,Illinois,0.0564
+@mooncayton,270 thousand,246,36129,6545,4900,8400,7700,0.0021,2015-11-01,Female,10,13,2,Food & Drink,Illinois,0.0564
+@susannebrant,390 thousand,231,647,219,1000,5600,13700,0.0026,2012-07-01,Female,17,13,3,Parenting,Illinois,0.0564
+@sandylampley,580 thousand,162,42144,8969,1400,6600,14800,0.0005,2019-04-01,Male,1,13,1,Adventure,Illinois,0.0564
+@roxannaknouse,4.1 million,412,387450,361,12000,15000,2000,0.0025,2011-05-01,Female,1,13,1,Adventure,Illinois,0.0564
+@cedricdearing,1.3 million,1250,41249,553,9000,12000,9000,0.0021,2013-12-01,Male,19,13,3,Shopping,Illinois,0.0564
+@marcosbelfield,500 thousand,249,284880,10614,3400,7000,4400,0.0008,2019-05-01,Male,21,13,4,Travel & Local,Illinois,0.0564
+@antoncheslock,1.9 million,249,284880,10614,3400,7000,4400,0.0026,2018-06-01,Female,3,28,1,Auto & Vehicles,Nevada,0.0526
+@jodysecord,800 thousand,800,4251,5656,5700,12100,11000,0.0019,2012-07-01,Male,6,28,2,Business,Nevada,0.0526
+@sterlingabadie,1.9 million,249,284880,10614,3400,7000,4400,0.0012,2013-12-01,Male,1,28,1,Adventure,Nevada,0.0526
+@carminagisler,300 thousand,878,24921,439,1200,5000,9000,0.0012,2014-01-01,Female,19,28,3,Shopping,Nevada,0.0526
+@lilianadolphson,4.5 million,670,282410,1033,5500,29000,2500,0.0007,2012-07-01,Female,3,37,1,Auto & Vehicles,Oregon,0.0476
+@ayanateachout,790 thousand,161,52512,8787,1300,6000,4600,0.0023,2012-12-01,Male,7,37,2,Comics,Oregon,0.0476
+@frederickanorling,500 thousand,227,5676,164,1500,7500,10800,0.0019,2012-11-01,Female,18,37,3,Productivity,Oregon,0.0476
+@betseydrakes,890 thousand,300,42849,866,1000,3000,13000,0.0021,2017-09-01,Male,19,37,3,Shopping,Oregon,0.0476
+@shalonlecompte,4.1 million,412,387450,361,12000,15000,2000,0.002,2012-12-01,Female,3,11,1,Auto & Vehicles,Hawaii,0.0453
+@manieabraham,300 thousand,147,2715,214,1200,10400,4200,0.0011,2014-07-01,Female,4,11,1,Beauty,Hawaii,0.0453
+@caritahummell,500 thousand,227,5676,164,1500,7500,10800,0.0014,2011-05-01,Female,4,11,1,Beauty,Hawaii,0.0453
+@karabeliveau,500 thousand,227,5676,164,1500,7500,10800,0.0009,2013-12-01,Male,16,11,3,News & Magazines,Hawaii,0.0453
+@emmettsandage,300 thousand,878,24921,439,1200,5000,9000,0.0029,2011-05-01,Female,1,11,1,Adventure,Hawaii,0.0453
+@sharmaineflanagan,4.1 million,412,387450,361,12000,15000,2000,0.0022,2014-01-01,Female,3,23,1,Auto & Vehicles,Minnesota,0.0375
+@eravossler,2.9 million,902,290192,10991,3000,6000,2500,0.001,2011-05-01,Female,6,23,2,Business,Minnesota,0.0375
+@maesnodgrass,2.5 million,231,647,219,1000,5600,13700,0.0014,2011-05-01,Male,7,23,2,Comics,Minnesota,0.0375
+@numbersmarine,800 thousand,300,42849,866,1000,3000,13000,0.0012,2011-05-01,Male,9,23,2,Finance,Minnesota,0.0375
+@gilbertolafollette,1.1 million,165,239267,374,12400,16200,3600,0.0015,2017-09-01,Female,16,23,3,News & Magazines,Minnesota,0.0375
+@charismickel,500 thousand,227,5676,164,1500,7500,10800,0.0027,2019-04-01,Female,14,23,3,Medical,Minnesota,0.0375
+@brunaleask,2.9 million,902,290192,10991,3000,6000,2500,0.0015,2011-05-01,Male,3,19,1,Auto & Vehicles,Maine,0.0346
+@lashondamunsell,8.2 million,231,647,219,1000,5600,13700,0.0007,2018-10-01,Female,4,19,1,Beauty,Maine,0.0346
+@risaostler,1.9 million,249,284880,10614,3400,7000,4400,0.0018,2012-07-01,Female,9,19,2,Finance,Maine,0.0346
+@venniestamp,9.5 million,312,57755,1458,4210,5000,5000,0.0025,2017-09-01,Male,13,19,3,House & Home,Maine,0.0346
+@lexiehanning,1.1 million,165,239267,374,12400,16200,3600,0.0022,2015-08-01,Female,14,19,3,Medical,Maine,0.0346
+@lovemenot,4.1 million,412,387450,361,12000,15000,2000,0.0017,2015-08-01,Female,4,27,1,Beauty,Nebraska,0.0621
+@gingerwimbush,9.5 million,820,4370,3523,7300,15500,12100,0.0021,2015-08-01,Male,15,27,3,Music & Audio,Nebraska,0.0621
+@yerseevers,980 thousand,300,42849,866,1000,3000,13000,0.0021,2012-07-01,Male,4,43,1,Beauty,Texas,0.0289
+@robbidennie,4.5 million,4210,450227,1280,6500,29900,5300,0.0008,2012-07-01,Male,6,43,2,Business,Texas,0.0289
+@ellamaevossler,1.1 million,1002,128998,1641,3500,12000,3500,0.0024,2014-07-01,Male,6,43,2,Business,Texas,0.0289
+@aletheasoileau,2.5 million,1737,321319,10443,5700,29300,2900,0.0018,2012-07-01,Male,13,43,3,House & Home,Texas,0.0289
+@magaretmcgriff,1.1 million,231,647,219,1000,5600,13700,0.002,2018-07-01,Female,15,43,3,Music & Audio,Texas,0.0289
+@jeriedie,2.9 million,902,290192,10991,3000,6000,2500,0.0012,2011-05-01,Male,17,43,3,Parenting,Texas,0.0289
+@maudielepe,2.5 million,802,82748,44,7000,12000,10000,0.0029,2011-05-01,Female,11,43,2,Games,Texas,0.0289
+@joelgallagher,300 thousand,878,24921,439,1200,5000,9000,0.002,2012-11-01,Male,4,10,1,Beauty,Georgia,0.044
+@oraek,4.5 million,4210,450227,1280,6500,29900,5300,0.0017,2018-10-01,Female,5,10,1,Books & Reference,Georgia,0.044
+@ernesthisle,500 thousand,902,290192,10991,3000,6000,2500,0.0029,2012-12-01,Female,5,10,1,Books & Reference,Georgia,0.044
+@kennygoo,390 thousand,231,647,219,1000,5600,13700,0.0015,2019-04-01,Female,5,10,1,Books & Reference,Georgia,0.044
+@dalenegildea,890 thousand,300,42849,866,1000,3000,13000,0.0006,2019-04-01,Male,1,10,1,Adventure,Georgia,0.044
+@cicelybruhn,3.7 million,231,647,219,1000,5600,13700,0.0016,2012-11-01,Female,19,10,3,Shopping,Georgia,0.044
+@margereveles,390 thousand,231,647,219,1000,5600,13700,0.0023,2011-05-01,Male,4,12,1,Beauty,Idaho,0.0609
+@cropmachinecom,890 thousand,300,42849,866,1000,3000,13000,0.0013,2016-10-01,Female,6,12,2,Business,Idaho,0.0609
+@chinwedge,500 thousand,227,5676,164,1500,7500,10800,0.0025,2011-05-01,Female,10,12,2,Food & Drink,Idaho,0.0609
+@tarrapetri,4.5 million,4210,450227,1280,6500,29900,5300,0.0017,2016-10-01,Male,17,12,3,Parenting,Idaho,0.0609
+@georgiecaudillo,500 thousand,412,387450,361,12000,15000,2000,0.0017,2014-01-01,Female,19,12,3,Shopping,Idaho,0.0609
+@megatronfans,300 thousand,878,24921,439,1200,5000,9000,0.0025,2017-11-01,Male,5,45,1,Books & Reference,Vermont,0.0614
+@latrishamichalik,300 thousand,147,2715,214,1200,10400,4200,0.0009,2017-11-01,Male,16,45,3,News & Magazines,Vermont,0.0614
+@vickierhoads,1.7 million,1250,41249,553,9000,12000,9000,0.001,2019-04-01,Female,5,42,1,Books & Reference,Tennessee,0.0226
+@kristenwiest,390 thousand,231,647,219,1000,5600,13700,0.0022,2018-07-01,Female,12,42,2,Health & Fitness,Tennessee,0.0226
+@benniestowell,500 thousand,878,24921,439,1200,5000,9000,0.0021,2014-07-01,Male,16,42,3,News & Magazines,Tennessee,0.0226
+@chasenevarez,1.1 million,165,239267,374,12400,16200,3600,0.003,2017-11-01,Male,18,42,3,Productivity,Tennessee,0.0226
+@ninaryce,390 thousand,231,647,219,1000,5600,13700,0.0022,2018-06-01,Male,19,42,3,Shopping,Tennessee,0.0226
+@genovevadismuke,890 thousand,300,42849,866,1000,3000,13000,0.0027,2011-05-01,Female,5,44,1,Books & Reference,Utah,0.0431
+@ghislainepurtell,7 million,227,5676,164,1500,7500,10800,0.0015,2012-11-01,Male,6,44,2,Business,Utah,0.0431
+@tamikomoe,1.9 million,249,284880,10614,3400,7000,4400,0.0019,2018-07-01,Male,6,44,2,Business,Utah,0.0431
+@kindraudell,270 thousand,900,26826,650,4500,15000,6100,0.0028,2018-10-01,Female,8,44,2,Events,Utah,0.0431
+@careymcclintic,2.9 million,902,290192,10991,3000,6000,2500,0.0015,2014-01-01,Male,1,44,1,Adventure,Utah,0.0431
+@mistiebarnhill,980 thousand,249,284880,10614,3400,7000,4400,0.0022,2011-05-01,Male,20,44,4,Social,Utah,0.0431
+@brentcowherd,1.9 million,249,284880,10614,3400,7000,4400,0.0011,2011-05-01,Female,5,33,1,Books & Reference,North Carolina,0.0594
+@bbcnewscompilation,2.9 million,902,290192,10991,3000,6000,2500,0.0017,2019-05-01,Male,7,33,2,Comics,North Carolina,0.0594
+@rachellfalzone,390 thousand,231,647,219,1000,5600,13700,0.0012,2018-07-01,Male,12,33,2,Health & Fitness,North Carolina,0.0594
+@antoineschranz,270 thousand,900,26826,650,4500,15000,6100,0.0021,2019-05-01,Male,11,33,2,Games,North Carolina,0.0594
+@audreawurster,2.5 million,878,24921,439,1200,5000,9000,0.0023,2017-09-01,Female,19,33,3,Shopping,North Carolina,0.0594
+@jerriportier,1.2 million,267,47980,153,4500,6600,6800,0.0018,2013-02-01,Female,6,6,2,Business,Colorado,0.0214
+@jocelynfogleman,1.9 million,249,284880,10614,3400,7000,4400,0.0026,2014-01-01,Female,15,6,3,Music & Audio,Colorado,0.0214
+@mackellner,2.9 million,412,387450,361,12000,15000,2000,0.0019,2011-05-01,Male,15,6,3,Music & Audio,Colorado,0.0214
+@katiafalkowski,500 thousand,227,5676,164,1500,7500,10800,0.0007,2016-10-01,Male,19,6,3,Shopping,Colorado,0.0214
+@meliabeaston,1.1 million,165,239267,374,12400,16200,3600,0.0024,2012-07-01,Female,20,6,4,Social,Colorado,0.0214
+@annaleehiemstra,500 thousand,412,387450,361,12000,15000,2000,0.001,2012-07-01,Female,6,7,2,Business,Connecticut,0.0276
+@ettiesharp,270 thousand,900,26826,650,4500,15000,6100,0.0011,2013-12-01,Male,7,7,2,Comics,Connecticut,0.0276
+@arnetteoldaker,3.2 million,416,69015,343,3600,12800,4700,0.0026,2013-12-01,Male,8,7,2,Events,Connecticut,0.0276
+@henriettewoodrow,500 thousand,227,5676,164,1500,7500,10800,0.002,2018-07-01,Female,11,7,2,Games,Connecticut,0.0276
+@fernandakutcher,500 thousand,1523,11023,444,800,7000,2000,0.0009,2019-04-01,Female,1,7,1,Adventure,Connecticut,0.0276
+@eloisaemanuel,390 thousand,227,5676,164,1500,7500,10800,0.0022,2011-05-01,Male,14,7,3,Medical,Connecticut,0.0276
+@lennietreese,2.9 million,902,290192,10991,3000,6000,2500,0.0023,2017-09-01,Male,6,2,2,Business,Alaska,0.0339
+@carinchoquette,390 thousand,231,647,219,1000,5600,13700,0.0015,2017-09-01,Female,8,2,2,Events,Alaska,0.0339
+@anglecalloway,1.7 million,421,52387,2732,6400,12600,8600,0.002,2015-08-01,Male,7,17,2,Comics,Kentucky,0.0213
+@trinaswims,8.2 million,1002,128998,1641,3500,12000,3500,0.0018,2011-05-01,Female,12,17,2,Health & Fitness,Kentucky,0.0213
+@sharricroslin,8.3 million,1201,11671,595,9300,14600,11300,0.0013,2017-09-01,Male,16,17,3,News & Magazines,Kentucky,0.0213
+@natashiaroby,390 thousand,231,647,219,1000,5600,13700,0.0012,2019-05-01,Female,20,17,4,Social,Kentucky,0.0213
+@eugenetalton,500 thousand,227,5676,164,1500,7500,10800,0.0021,2013-12-01,Female,14,17,3,Medical,Kentucky,0.0213
+@bethgurr,230 thousand,115,1357,392,5500,10100,9800,0.0023,2017-11-01,Female,8,34,2,Events,North Dakota,0.0204
+@trudykellems,4.5 million,670,282410,1033,5500,29000,2500,0.0009,2012-11-01,Female,10,34,2,Food & Drink,North Dakota,0.0204
+@juleneedgley,390 thousand,231,647,219,1000,5600,13700,0.0009,2012-11-01,Female,15,34,3,Music & Audio,North Dakota,0.0204
+@baolashbrook,1.2 million,267,47980,153,4500,6600,6800,0.0013,2018-06-01,Male,17,34,3,Parenting,North Dakota,0.0204
+@phillisshupp,980 thousand,554,4249,10,5400,10000,7500,0.002,2019-04-01,Male,14,34,3,Medical,North Dakota,0.0204
+@tiffaniellefson,500 thousand,227,5676,164,1500,7500,10800,0.0016,2012-07-01,Male,8,41,2,Events,South Dakota,0.0171
+@gussnyder,7 million,444,35800,1427,13000,19000,15000,0.0012,2011-05-01,Male,16,41,3,News & Magazines,South Dakota,0.0171
+@hyacinthlasko,230 thousand,115,1357,392,5500,10100,9800,0.0022,2013-12-01,Male,1,41,1,Adventure,South Dakota,0.0171
+@luannadenbow,250 thousand,279,863,123,1200,5100,4000,0.001,2016-10-01,Female,9,1,2,Finance,Alabama,0.0181
+@gwynwoodfin,390 thousand,231,647,219,1000,5600,13700,0.0029,2012-12-01,Female,9,1,2,Finance,Alabama,0.0181
+@thuyrobinett,1.9 million,249,284880,10614,3400,7000,4400,0.0018,2011-05-01,Female,13,1,3,House & Home,Alabama,0.0181
+@zorapadilla,500 thousand,372,4291,199,1000,5000,3000,0.002,2013-02-01,Female,15,1,3,Music & Audio,Alabama,0.0181
+@louallensworth,1.7 million,421,52387,2732,6400,12600,8600,0.0023,2012-07-01,Male,11,1,2,Games,Alabama,0.0181
+@verlinecahill,2.3 million,273,57267,284,4100,13000,5700,0.0014,2017-11-01,Female,16,38,3,News & Magazines,Pennsylvania,0.0052
+@lidiaearhart,300 thousand,878,24921,439,1200,5000,9000,0.0017,2011-05-01,Male,18,38,3,Productivity,Pennsylvania,0.0052
+@eviebritto,500 thousand,1523,11023,444,800,7000,2000,0.002,2013-02-01,Male,11,14,2,Games,Indiana,0.0108
+@franciscatoro,7.9 million,350,21407,1130,13300,21200,17600,0.0012,2011-05-01,Female,19,14,3,Shopping,Indiana,0.0108
+@frankiehanscom,4.5 million,670,282410,1033,5500,29000,2500,0.0027,2012-07-01,Male,1,18,1,Adventure,Louisiana,0.0082
+@feliceferrari,1.5 million,345,44678,3554,7200,13400,11600,0.0023,2019-04-01,Male,20,18,4,Social,Louisiana,0.0082
+@leoswan,250 thousand,279,863,123,1200,5100,4000,0.0013,2012-11-01,Female,18,16,3,Productivity,Kansas,0.0143
+@ingeborgallison,2.5 million,802,82748,44,7000,12000,10000,0.0013,2019-04-01,Female,21,16,4,Travel & Local,Kansas,0.0143
+@austinpylant,890 thousand,300,42849,866,1000,3000,13000,0.0023,2014-07-01,Female,19,22,3,Shopping,Michigan,0.0045
+@elizabetkresge,5.1 million,1112,48048,201,12800,16600,4100,0.0022,2016-10-01,Female,21,22,4,Travel & Local,Michigan,0.0045

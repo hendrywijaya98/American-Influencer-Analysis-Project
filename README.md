@@ -20,11 +20,40 @@ There is a .xls file containing these data
 
 Then those datasets combined one by one with merge functions from pandas library which is Influencer Data and Influencer Category combined using id column `Category ID` as key to be the first temp data, and then first temp data combined with Influencer Agency using id column `Agency Location ID` as key as final temp. Then it exported to new `.csv` that called `influencer_dataset.csv` with `Index=False` as parameter to avoid `unnamed: 0` column.
 
+```
+# first temp dataset 
+influencer_temp = pd.merge(left=influencer_data, right=influencer_categ, left_on='Category ID', right_on='Category ID')
+
+# final temp dataset
+influencer_final = pd.merge(left=influencer_temp, right=influencer_agen, left_on='Agency Location ID', right_on='Agency Location ID')
+```
 
 ## Data Inspection
 then `influencer_dataset.csv` loaded that have 220 rows and 17 columns contained, and the data still clean and no duplicates.
 
 But the Data Cleaning is done by Data Transformation about date column `Account Created` with `object` datatype to be `datetime`. And then for `Follower` which is should be integer, but actually in this case the data type is `object`. So the transformation of this column involving for loop iteration to iterate each rows and define the empty list to store the iterated rows, with using condition if string contains million convert to be millions, else string contains thousand convert to be thousand that involving changing data type from float until int.
+```
+foll_temp = []
+# iterate df column
+for colname, colval in influencer_df.iterrows():
+    # if df follower == str thousands
+    if 'thousand' in colval['Followers']:
+        # remove "thousands" menggunakan replace 
+        num1 = colval['Followers'].replace('thousand','')
+        # convert into numeric and multiple by 1000
+        num1 = int(float(num1)*1000)
+        foll_temp.append(num1)
+    # elif df follower == str million
+    else:
+        # remove "million" menggunakan replace 
+        num2 = colval['Followers'].replace('million','')
+        # convert into numeric and multiple by 1000000
+        num2 = int(float(num2) * 1000000)
+        foll_temp.append(num2)
+ 
+foll_temp = pd.Series(foll_temp)
+influencer_df['Followers'] = foll_temp
+```
 
 ## Exploratory Data Analysis
 Exploratory Data Analysis with Pandas, Matplotlib and Seaborn library.

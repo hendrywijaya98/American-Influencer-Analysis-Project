@@ -6,9 +6,28 @@ Influencer now is the essential parts for promoting business product. Besides em
 
 With the Big numbers of World Wide Internet Users are reach **4,66 Billions**, Besides Instagram is the one of Social Media with the most users from whole internet users that Approximately 1 Billions Monthly Users
 
+## Data Collections
+There is a .xls file containing these data 
+- Influencer Data: contains a list of influencers and their statistics including followers, likes, posts, prices, gender, account created, category ID.
+  - which have 220 rows and 13 columns
+  - and this data is clean because has no duplicates and missing value   
+- Influencer Category: contains category group, category ID, and category name.
+  - which have 21 rows and 3 columns
+  - and this data is clean because has no duplicates and missing value
+- Influencer Agency: contains agency location, agency location ID, and agency fee.
+  - which have 45 rows and 3 columns
+  - and this data is clean because has no duplicates and missing value
+
+Then those datasets combined one by one with merge functions from pandas library which is Influencer Data and Influencer Category combined using id column `Category ID` as key to be the first temp data, and then first temp data combined with Influencer Agency using id column `Agency Location ID` as key as final temp. Then it exported to new `.csv` that called `influencer_dataset.csv` with `Index=False` as parameter to avoid `unnamed: 0` column.
+
+
 ## Data Inspection
+then `influencer_dataset.csv` loaded that have 220 rows and 17 columns contained, and the data still clean and no duplicates.
+
+But the Data Cleaning is done by Data Transformation about date column `Account Created` with `object` datatype to be `datetime`. And then for `Follower` which is should be integer, but actually in this case the data type is `object`. So the transformation of this column involving for loop iteration to iterate each rows and define the empty list to store the iterated rows, with using condition if string contains million convert to be millions, else string contains thousand convert to be thousand that involving changing data type from float until int.
 
 ## Exploratory Data Analysis
+Exploratory Data Analysis with Pandas, Matplotlib and Seaborn library.
 
 ### INFLUENCER CATEGORY
 ![](https://github.com/hendrywijaya98/American-Influencer-Analysis-Project/blob/main/images/category_group1.png)
